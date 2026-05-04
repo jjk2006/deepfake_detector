@@ -103,26 +103,12 @@ model/Nakli_Image_detector.pth
 
 ## 👨‍💻 Author
 
-* Your Name
-* Final Year AI/ML Project
+* JIBRAN KHOT
+* COMMUNICATION ENGAGEMENT PROJECT(CEP)
 
 ---
 
 ## ⭐ If you like this project, give it a star!
 
-```
-
----
-
-# 🔥 Tips (important)
-
-👉 Replace:
-- `your-username`
-- `your-model-link`
-- `Your Name`
-
-👉 README me chahe to:
-- screenshots add kar
-- demo GIF add kar
 
 
